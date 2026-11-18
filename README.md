@@ -1,6 +1,6 @@
-*This activity has been created as part of the 42 curriculum by smaci, rselmani.*
-
 # Pac-Man
+
+<img width="1920" height="1200" alt="pac1" src="https://github.com/user-attachments/assets/a895ff3e-b931-4269-8333-5334ae1f7a1b" />
 
 ## Description
 
@@ -126,6 +126,8 @@ grid = generator.maze  # list[list[int]]
 - The player spawns at the open cell nearest to the centre; ghosts and
   super-pacgums are placed at the open cells nearest to the four corners.
 
+<img width="1917" height="1200" alt="pac2" src="https://github.com/user-attachments/assets/9a1216c5-a433-4f82-9e24-69e59e00c9ff" />
+
 ## Implementation
 
 A 60 FPS loop drives a state machine: menu, instructions, highscores, playing,
@@ -192,3 +194,5 @@ acceptance test plan and a retrospective. All documents are in
 
 ## Playable build
 https://smaci.itch.io/pac-man
+
+<img width="1920" height="1200" alt="pac3" src="https://github.com/user-attachments/assets/33c3a295-b5ff-40e8-8dca-8e3b756e34e5" />
