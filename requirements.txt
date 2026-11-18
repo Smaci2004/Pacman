@@ -1,0 +1,5 @@
+./utils/mazegenerator-00001-py3-none-any.whl
+pygame==2.6.1
+flake8
+mypy
+pyinstaller
